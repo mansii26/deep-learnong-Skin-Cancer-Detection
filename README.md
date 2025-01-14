@@ -1,1 +1,1 @@
-# deep-learnong-Skin-Cancer-Detection
+# Skin-Cancer-Detection
