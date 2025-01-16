@@ -94,10 +94,13 @@ Skin cancer is one of the most common cancers globally. Early detection can sign
 ![User Workflow](https://github.com/mansii26/deep-learnong-Skin-Cancer-Detection/blob/main/readme_images/7.png)
 
 ###4. Example
-![User Workflow](https://github.com/mansii26/deep-learnong-Skin-Cancer-Detection/blob/main/readme_images/)
-![User Workflow](https://github.com/mansii26/deep-learnong-Skin-Cancer-Detection/blob/main/readme_images/)
-![User Workflow](https://github.com/mansii26/deep-learnong-Skin-Cancer-Detection/blob/main/readme_images/
-![User Workflow](https://github.com/mansii26/deep-learnong-Skin-Cancer-Detection/blob/main/readme_images/)
+![User Workflow](
+https://github.com/mansii26/deep-learnong-Skin-Cancer-Detection/blob/main/readme_images/16.png
+)
+![User Workflow](https://github.com/mansii26/deep-learnong-Skin-Cancer-Detection/blob/main/readme_images/17.png)
+![User Workflow](https://github.com/mansii26/deep-learnong-Skin-Cancer-Detection/blob/main/readme_images/18.png
+)
+![User Workflow](https://github.com/mansii26/deep-learnong-Skin-Cancer-Detection/blob/main/readme_images/19.png)
 
 
 ---
