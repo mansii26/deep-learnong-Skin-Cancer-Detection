@@ -91,7 +91,7 @@ Skin cancer is one of the most common cancers globally. Early detection can sign
 ![Data Pipeline](https://github.com/mansii26/deep-learnong-Skin-Cancer-Detection/blob/main/readme_images/6.jpg)
 
 ### 3. User Workflow
-![User Workflow](https://github.com/mansii26/deep-learnong-Skin-Cancer-Detection/blob/main/readme_images/7.jpg)
+![User Workflow](https://github.com/mansii26/deep-learnong-Skin-Cancer-Detection/blob/main/readme_images/7.png)
 
 ---
 
