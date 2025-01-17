@@ -61,9 +61,9 @@ Skin cancer is one of the most common cancers globally. Early detection can sign
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript.
-- **Backend**: Python, Flask/Django.
-- **Deep Learning**: TensorFlow/Keras with EfficientNet.
-- **Database**: SQLite/MySQL (for patient details).
+- **Backend**: Python, Django.
+- **Deep Learning**: TensorFlow with EfficientNet.
+- **Database**: MySQL (for patient details).
 - **Tools**: Docker, Git, Jupyter Notebook.
 - **Visualization**: Matplotlib, Seaborn.
 
